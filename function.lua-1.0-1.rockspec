@@ -1,4 +1,4 @@
-package = "Function"
+package = "Function.lua"
 version = "1.1-1"
 source = {
   url = "https://github.com/UrNightmaree/Function.lua/archive/v1.1.tar.gz",
