@@ -2,7 +2,7 @@ package = "Function"
 version = "1.0-1"
 source = {
   url = "https://github.com/UrNightmaree/Function.lua/archive/v1.0.tar.gz",
-  dir = 'Function.Lua-v1.0'
+  dir = 'Function.lua-v1.0'
 }
 description = {
   summary = 'Implementation of JS Function constructor',
