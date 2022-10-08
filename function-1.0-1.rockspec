@@ -6,13 +6,16 @@ source = {
 }
 description = {
   summary = 'Implementation of JS Function constructor',
-  description = [[
+  detailed = [[
 Implementation of JS Function constructor.
 
 Usage can be found in the homepage]],
 
   homepage = "https://github.com/UrNightmaree/Function.lua",
   license = "MIT"
+}
+dependencies = {
+  'lua >= 5.1'
 }
 build = {
   type = "builtin",
